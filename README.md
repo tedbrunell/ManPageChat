@@ -1,5 +1,5 @@
 # ManPageChat
-This is just a simple LLM AI Chat Bot leveraging Retrieval Augmented Generation (RAG).  It is still in Jupyter Notebook form (sorry, no GUI yet).
+This is just a simple Artificial Intelligence (AI) Large Language Model (LLM) Chat Bot leveraging Retrieval Augmented Generation (RAG).  It is still in Jupyter Notebook form (sorry, no GUI yet).
 
 ## Assumptions
 The script assumes that you have Ollama running somewhere with the Mistral:Instruct LLM loaded.  I used OpenShift AI to create the notebook and host Ollama in the OpenShift environment.
