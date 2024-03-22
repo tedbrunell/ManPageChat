@@ -2,7 +2,7 @@
 This is just a simple Artificial Intelligence (AI) Large Language Model (LLM) Chat Bot leveraging Retrieval Augmented Generation (RAG).  It is still in Jupyter Notebook form (sorry, no GUI yet).
 
 ## Assumptions
-The script assumes that you have Ollama running somewhere with the Mistral:Instruct LLM loaded.  I used OpenShift AI to create the notebook and host Ollama in the OpenShift environment.
+The script assumes that you have Ollama running somewhere (I used OpenShift) with the Mistral:Instruct LLM loaded.  I used OpenShift AI to create the notebook and host Ollama in the OpenShift environment.  if you need hep getting ollama running in OpenShift, feel free to use to files in my [ollama-on-ocp](https://github.com/tedbrunell/ollama-on-ocp) repo for help.  
 
 ## General Use
 1.  Download the notebook and import it into Jupyter.
